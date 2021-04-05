@@ -17,3 +17,10 @@ And the team with the better redesign wins the Brandathon.
 (Spoiler alert - We won 🤣)
 
 <br>
+
+## Team & TImeline :
+
+
+Collaborated with 3 different creatives specializing in branding, creative strategy, and copywriting in a 48 hours rebranding session. We came together to design various deliverables for 'Fathom Optics' consisting of the copywriting strategy, brand identity, investor pitch deck, and a redesigned landing page.
+
+<br>
