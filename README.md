@@ -24,3 +24,15 @@ And the team with the better redesign wins the Brandathon.
 Collaborated with 3 different creatives specializing in branding, creative strategy, and copywriting in a 48 hours rebranding session. We came together to design various deliverables for 'Fathom Optics' consisting of the copywriting strategy, brand identity, investor pitch deck, and a redesigned landing page.
 
 <br>
+
+# Exploration Phase
+
+
+As our first step, we spoke with the Fathom team to ensure that we understand exactly what the product offers and how it helps its users while designing for print & packaging. Our meeting ended with a discussion of the deliverables they wanted, and here are the details.  
+  
+- Brand Guidelines (colors and fonts, tone direction, manifesto)  
+- Web Design (new structure, updated copy, visual elements)  
+- Pitch Deck (for potential investors)  
+- Communication strategy
+
+<br>
