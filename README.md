@@ -72,7 +72,9 @@ There were multiple instances where text overlapped over background video withou
 Although the website was responsive, yet there were multiple issues with the mobile design. The website display was not optimized for large screen monitors and thereby made it practically unusable.  
   
 Despite taking so long to load the multimedia files, the background videos could not even be viewed properly on mobile devices.
+
 <br>
+
 ## Usability
 
 I used Jakob Nielsen's heuristic evaluation to check the usability of the old website, and here are the things that I found out:
