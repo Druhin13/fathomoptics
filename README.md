@@ -35,4 +35,23 @@ As our first step, we spoke with the Fathom team to ensure that we understand ex
 - Pitch Deck (for potential investors)  
 - Communication strategy
 
+We created a rough timeline, and divided the work amongst ourselves, in order to save time. Day 1 was mostly spent on researching and brainstorming design ideas for Fathom Optics.
+
+We decided to create mood boards exploring color, typography, web layouts and show our ideas to the Fathom team, and see if we were on the same page or not. Me, Fer & Therese went to create those mood boards, while Reagan started working on the brand manifesto.
+
+We presented our mood boards along with the rough branding manifesto to Fathom on our second meeting and asked their opinion on them.
+
+<br>
+
+# Brand Guidelines
+
+Our design preferences were further honed after we noted down the feedback from the Fathom team. And for the next step, Fer and Therese started to work on the color palette and typography that would form the foundation of the brand guidelines.  
+  
+For the color palette, we stayed with the traditional CMYK color scheme the brand already had, as well as two additional neutrals - a Soft white and a Matte black.  
+  
+For typography, the original decision was to maintain a sans serif font for the entire project in order to convey simplicity and modernity. But while showing modernity, we also wanted to convey the brand's traditional roots to print. And so we decided to use both Serif and Sans-Serif. Serif for headings, and Sans-Serif for the copy heavy paragraphs.  
+  
+  
+At the same time that the Brand Guidelines were being designed, Reagan was already working on the website copy, which will help me get started on the website, for the next phase of designing.
+
 <br>
