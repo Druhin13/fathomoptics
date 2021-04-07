@@ -65,7 +65,9 @@ Design, Usability, and Performance of the website.
 <br>
 ## Design
 
-There were a lot of accessibility issues throughout the entire website. For starters, background and foreground elements with texts didn't have a sufficient contrast ratio. There were multiple instances where text overlapped over background video without an overlay and thus making it illegible to read. A lack of consistent typography along with mixed alignment issues made it even harder to read the big chunk of texts.  
+There were a lot of accessibility issues throughout the entire website. For starters, background and foreground elements with texts didn't have a sufficient contrast ratio. The website wasn’t designed well to act responsively through all device sizes and screen ratios, and thereby sometimes making it unusable too.  
+  
+There were multiple instances where text overlapped over background video without an overlay and thus making it illegible to read. A lack of consistent typography along with mixed alignment issues made it even harder to read the big chunk of texts.  
   
 Although the website was responsive, yet there were multiple issues with the mobile design. The website display was not optimized for large screen monitors and thereby made it practically unusable.  
   
