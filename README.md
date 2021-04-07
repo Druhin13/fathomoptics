@@ -70,3 +70,28 @@ There were a lot of accessibility issues throughout the entire website. For star
 Although the website was responsive, yet there were multiple issues with the mobile design. The website display was not optimized for large screen monitors and thereby made it practically unusable.  
   
 Despite taking so long to load the multimedia files, the background videos could not even be viewed properly on mobile devices.
+<br>
+## Usability
+
+I used Jakob Nielsen's heuristic evaluation to check the usability of the old website, and here are the things that I found out:
+
+1. **Visibility of system status -**
+	Users see a blank screen until the page loads fully. There is no feedback for the user when clicking the Sign-Up, Contact, and other CTA buttons. 
+	
+2. **Match between system and the real world**  
+
+3. **User control and freedom -**
+Once going to a page inside the website, there's no way to get back to the homepage.  
+4. **Consistency and standards -**
+Mixed usage of button hover design for multiple instances. The logo in the top left doesn't take you to the homepage, and this breaks the consistent web design convention, which also prevents users from ever returning to the homepage.  
+5. **Error prevention -**
+Textboxes do not provide feedback on internal errors, nor do they help the user prevent them.  
+6. **Recognition rather than recall -**
+The contact form asks users to provide their phone numbers, by breaking them into pieces. The phone number form has a 'Country' tag with a numeric text box to fill it up.  
+7. **Flexibility and efficiency of use -**
+When a page is scrolled, the menu cannot be accessed without returning to the top of the page. Neither does the page have a button to take users to the top of the page easily.  
+8. **Aesthetic and minimalist design**  
+9. **Help users recognize, diagnose, and recover from errors -**
+ The website does handle page errors by redirecting to a separate page and telling the users what went wrong without any technical jargon. However, it does not provide any suggestions to help or assist the user solve the error. Error codes are displayed to the user when internal errors or server errors occur, regardless of what the cause of the error is.  
+10. **Help and documentation -**
+There's a dedicated search page, but could only be accessed from the error page. The search bar has a limit of characters, forcing users to enter between 4 and 30 characters.
