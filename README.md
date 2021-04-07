@@ -128,7 +128,9 @@ Yes, we did finish an entire brand and website redesign in just a weekend with l
 what about its success rate?  
 was the visual design actually good?  
 how can we even calculate the success rate of the visual design?*
+
 <br>
+
 The redesign did rectify quite a few design decisions, but I'm hesitant to say yes. This is a situation in which we need the Fathom team to implement the designs and test them as soon as possible in order to assess the success rate. Testing can be carried out by using heatmaps to track the user's behavior. And maybe it might be useful to add an option where the user can fill up a survey to determine their attitudinal reaction.  
   
 Although the aesthetics of a design are subjective, the way we used design thinking to determine color, typography, and layout ensures that the visual design is usable and appealing to our targeted audience.  
