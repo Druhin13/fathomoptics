@@ -109,3 +109,22 @@ It takes more than 10 seconds to fully load the website on the desktop. Video fi
 It could have been avoided by lazy-loading the multimedia files, but instead, it shows the user a blank screen, since it loads the whole page all at once.  
   
 It takes more than 15 seconds for the homepage to be fully interactive on a mobile device. The page-load is not at all reliable or fast enough on mobile networks as there's no proper caching technique used within the website.
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+# Moving Forward
+
+Yes, we did finish an entire brand and website redesign in just a weekend with less than 48 hours in hand. However, there are still a few questions to be asked at the end of the day.  
+  
+*was it really helpful?  
+what about its success rate?  
+was the visual design actually good?  
+how can we even calculate the success rate of the visual design?*
