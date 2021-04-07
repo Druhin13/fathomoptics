@@ -55,3 +55,10 @@ For typography, the original decision was to maintain a sans serif font for the 
 At the same time that the Brand Guidelines were being designed, Reagan was already working on the website copy, which will help me get started on the website, for the next phase of designing.
 
 <br>
+
+# Web Audit
+
+In order to improve upon the old landing page that Fathom Optics had, I analyzed and did a web audit of their site before the end of Day 1, in order to get a head start on Day 2 when designing the website.  
+  
+The web audit included the following three aspects:  
+Design, Usability, and Performance of the website.
