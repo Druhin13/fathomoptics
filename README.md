@@ -95,3 +95,7 @@ When a page is scrolled, the menu cannot be accessed without returning to the to
  The website does handle page errors by redirecting to a separate page and telling the users what went wrong without any technical jargon. However, it does not provide any suggestions to help or assist the user solve the error. Error codes are displayed to the user when internal errors or server errors occur, regardless of what the cause of the error is.  
 10. **Help and documentation -**
 There's a dedicated search page, but could only be accessed from the error page. The search bar has a limit of characters, forcing users to enter between 4 and 30 characters.
+<br>
+## Performance
+
+It takes more than 10 seconds to fully load the website on the desktop. Video files and iframes are among the main reasons for this low speed index. It could have been avoided by lazy-loading the multimedia files, but instead, it shows the user a blank screen, since it loads the whole page all at once. It takes more than 15 seconds for the homepage to be fully interactive on a mobile device. The page-load is not at all reliable or fast enough on mobile networks as there's no proper caching technique used within the website.
